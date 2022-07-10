@@ -1,0 +1,37 @@
+КЛАССЫ
+
+==for ALL==
+link / базовый для ссылок
+list / базовый для списков
+container / базовый для секций
+list-item / все li
+modal-button / кнопка "онлайн-запись"
+
+==HEADER==
+header / базовый для хедера
+navigation / базовый для навигации
+logo / для логотипа
+nav-list / ul ссылок навигации
+contacts / блок контактов
+
+==HERO==
+hero / базовый для героя
+hero-left-side / левый блок
+hero-right-side / правый блок
+hero-title / заголовок-герой
+hero-text-name / описание
+hero-name-description / описание
+hero-nav-list / навигация героя
+
+==ABOUT==
+about / базовый для секции
+about-left-side / левый блок
+about-photo-list / ul левого блока
+about-photo / фото секции
+about-right-side / правый блок
+about-text / текст
+about-title / заголовок секции
+about-text-slogan / текст
+about-text-description / текст
+
+==SERVICES==
