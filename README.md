@@ -1,2 +1,2 @@
 # barbershop
-simple landing (html+css)
+simple landing
